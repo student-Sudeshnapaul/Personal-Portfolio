@@ -2,7 +2,7 @@
 
 A fully responsive personal portfolio website built from scratch using HTML, CSS, and JavaScript. This site is designed to showcase my skills, projects, and educational background to potential employers and collaborators.
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-View_Site-brightgreen.svg)](https://student-sudeshnapaul.github.io/Personal-Portfolio/)
+
 
 
 ## ✨ Features
