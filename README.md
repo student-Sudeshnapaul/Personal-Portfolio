@@ -4,9 +4,6 @@ A fully responsive personal portfolio website built from scratch using HTML, CSS
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-View_Site-brightgreen.svg)](https://student-sudeshnapaul.github.io/Personal-Portfolio/)
 
-## 📸 Screenshot
-
-*(It is highly recommended you add a screenshot of your portfolio's home page here!)*
 
 ## ✨ Features
 
